@@ -1,0 +1,9 @@
+
+Keyboard shortcuts:
+
+1. To break a looping output: Ctrl + C
+2. Delete similar parts not wanted: Ctrl + F2
+3. To outdent: Shift + Tab
+
+4. To ddisable a large block of code in Pythong without Adding # to every line:
+Tripe quotes (""" or ''')
